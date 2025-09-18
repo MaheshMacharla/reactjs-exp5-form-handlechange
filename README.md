@@ -1,12 +1,12 @@
-# React + Vite
+![WhatsApp Image 2025-09-11 at 13 17 01_78e86357](https://github.com/user-attachments/assets/9f41bcd7-341a-450d-8b4c-d5927c29748c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This form demonstrates state management in React with the useState hook and real-time updates via the onChange event. When the user types into the input field, the state updates dynamically and the current value is displayed immediately.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features Shown in Screenshot:
 
-## Expanding the ESLint configuration
+A text input field connected to React state.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Dynamic rendering of the input value as the user types.
+
+Real-time UI updates using React’s re-rendering mechanism.
